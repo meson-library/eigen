@@ -1,0 +1,4 @@
+[wrap-git]
+directory = eigen-3.3.7
+url = https://github.com/meson-library/glfw.git
+revision = v3.3.7
