@@ -1,4 +1,4 @@
 [wrap-git]
 directory = eigen-3.3.7
-url = https://github.com/meson-library/glfw.git
+url = https://github.com/meson-library/eigen.git
 revision = v3.3.7
